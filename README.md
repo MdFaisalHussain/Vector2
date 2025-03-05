@@ -1,6 +1,4 @@
----
 
-```md
 # Vector2.js  
 A lightweight **2D vector** library for JavaScript, inspired by Godot's `Vector2` class.  
 
