@@ -1,5 +1,3 @@
-Here’s a well-structured **README.md** file for your `Vector2` class, ready for GitHub!  
-
 ---
 
 ```md
