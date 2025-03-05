@@ -104,15 +104,3 @@ Creates a new vector. Defaults to `(0, 0)`.
 
 ## 📜 License  
 MIT License - Free to use for any project!  
-```
-
----
-
-### **Why This is a Great README?**
-✔ **Clear Introduction** → Explains purpose & inspiration.  
-✔ **Installation Guide** → Helps users quickly get started.  
-✔ **Examples** → Shows real-world usage.  
-✔ **API Reference Table** → Quick lookup for functions.  
-✔ **Why Use It?** → Highlights benefits.  
-
-This will **impress users** on GitHub and make your project **stand out! 🚀**
